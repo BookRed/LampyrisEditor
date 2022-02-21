@@ -1,0 +1,14 @@
+{
+	"ShaderName:":"buildIn/xxx.leShader",
+	"Passes":[
+        {
+            "Properties":[
+
+            ],
+            "Vertex":{
+                #include "LampyrisEngine.h"
+                
+            }
+        }
+	]
+}

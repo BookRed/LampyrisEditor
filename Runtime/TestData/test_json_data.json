@@ -1,0 +1,18 @@
+// Lampyris Test Json
+{
+	"FloatValue" : 520.13140869140625,
+	"IntValue" : 520,
+	"StrValue" : "520",
+	"testArray" : 
+	[
+		5,
+		6,
+		7
+	],
+	"testArray1" : 
+	[
+		55,
+		66,
+		77
+	]
+}
